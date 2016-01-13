@@ -115,7 +115,7 @@ body:after {
   color: #fff;
   /* font-family: 'Source Sans Pro', Helvetica, sans-serif; */
   font-weight: 200;
-  font-family: "Open Sans Light", "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", Calibri, sans-serif; 
+  font-family: "Open Sans Light", "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", Calibri, sans-serif;
   line-height: 1.2;
   letter-spacing: normal;
   text-transform: uppercase;
@@ -284,11 +284,11 @@ body:after {
 /*********************************************
  * IMAGES
  *********************************************/
-.reveal section img {
+.reveal section img { /* FUNDO DAS IMAGENS */
   margin: 15px 0px;
-  background: rgba(255, 255, 255, 0.12);
-  border: 4px solid #fff;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
+  /*background: rgba(255, 255, 255, 0.12);*/
+  /*border: 4px solid #fff;*/
+  /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }*/
 
 .reveal a img {
   -webkit-transition: all 0.15s linear;
